@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/10xJavaAutomation.iml" filepath="$PROJECT_DIR$/10xJavaAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ATB11X/ATB11X.iml" filepath="$PROJECT_DIR$/ATB11X/ATB11X.iml" />
       <module fileurl="file://$PROJECT_DIR$/java class/java class.iml" filepath="$PROJECT_DIR$/java class/java class.iml" />
     </modules>
   </component>
