@@ -5,8 +5,7 @@ public class lab022_count_from_array {
         int count = 0;
         for(int value:a)
         {
-            if (value == num)
-            {
+            if (value == num) {
                 count++;
             }
         }
